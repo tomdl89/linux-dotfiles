@@ -1,0 +1,5 @@
+* Make changes in /usr/share/X11/xkb/
+* Copy the changes into the gb file in symbols
+* Copy the changes into the base.lst file in rules
+* Run `localectl --no-convert set-x11-keymap gb norman`
+* Add `exec --no-startup-id setxkbmap -layout gb -variant norman -option caps:swapescape` to ~/.config/i3/config
