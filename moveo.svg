@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="20px" height="20px" enable-background="new 0 0 20 20" version="1.1" viewbox="0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><marker id="a" overflow="visible" orient="auto"><path transform="scale(.2)" d="m5.77 0-8.65 5v-10l8.65 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/></marker></defs>
+<style type="text/css">
+    .sto0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g transform="translate(.8706 -2.047)">
+    <g transform="translate(-6.871)">
+        <path d="m6 4v16h12v-16m-2 14h-8v-12h8z"/>
+	<rect x="9" y="8" width="6" height="2"/>
+	<rect x="9" y="12" width="6" height="2"/>
+    </g>
+<path d="m12.24 12.54h4.753" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="1.5"/></g>
+
+</svg>
